@@ -7,5 +7,13 @@ body {
   font-family: calibri;
 }
 
+header {
+  text-align: center;
+}
+
 nav {
+}
+
+#micara {
+  width: 12%;
 }
