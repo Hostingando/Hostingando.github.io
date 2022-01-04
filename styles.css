@@ -1,7 +1,7 @@
 * {
   box-sizing: border-box;
   color: purple;
-}
+  }
 
 header {
   background-color: darkgrey;
@@ -24,3 +24,4 @@ h1 {
 section {
   background-color: darkgrey;
 }
+
