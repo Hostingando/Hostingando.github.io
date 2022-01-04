@@ -3,6 +3,10 @@
   color: purple;
   }
 
+body {
+  width: 100%;
+}
+
 header {
   background-color: darkgrey;
   float: center;
