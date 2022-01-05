@@ -5,17 +5,20 @@
 
 body {
   background-image: url("./nature_robot.jpg");
+  background-size: 130%;
+  background-attachment: fixed;
+  background-position: top;
 }
 
 header {
   float: center;
   text-align: center;
-  margin: 0.2%;
-  padding: 0.2%;
+  margin: 0.1%;
+  padding: 0.1%;
 }
 
 nav {
-  margin: 0.2%;
+  margin: 0.1%;
 }
 
 nav ul {
@@ -28,17 +31,17 @@ nav ul {
 nav ul li {
   display: block;
   float: left;
-  margin: 0.2%;
-  padding: 0.2%;
-  padding-left: 0.5%;
-  padding-right: 0.5%;
+  margin: 0.1%;
+  padding: 0.1%;
+  padding-left: 1%;
+  padding-right: 1%;
 }
 
 nav ul li a {
   text-decoration: none;
   border-radius: 5px;
-  padding-left: 10%;
-  padding-right: 10%;
+  padding-left: 1%;
+  padding-right: 1%;
 }
 
 nav ul li a:hover {
