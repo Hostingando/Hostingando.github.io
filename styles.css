@@ -1,5 +1,6 @@
 * {
   box-sizing: border-box;
+  color: gold;
 }
 
 body {
@@ -15,7 +16,6 @@ header {
 
 h1 {
   font-size: 40px;
-  color: gold;
 }
 
 #micara {
