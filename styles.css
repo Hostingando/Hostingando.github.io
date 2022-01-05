@@ -1,6 +1,6 @@
 * {
   box-sizing: border-box;
-  color: blue;
+  color: gold;
 }
 
 body {
@@ -10,13 +10,12 @@ body {
 header {
   float: center;
   text-align: center;
-  margin: 2%;
+  margin: 0.5%;
   padding: 0.05%;
 }
 
 nav {
-  margin: 2%;
-  border-radius: 5px;
+  margin: 0.5%;
 }
 
 nav ul {
@@ -30,7 +29,28 @@ nav ul li {
   display: block;
   float: left;
   margin: 1%;
-  color: violet;
+}
+
+section {
+  margin: 0.5%;
+  padding: 0.05%;
+  margin-left: 4%;
+  margin-right: 4%;
+}
+
+section.izq {
+  width: 28%;
+  float: left;
+}
+
+section.cen {
+  width: 28%;
+}
+
+section.der {
+  width: 28%;
+  float: right;
+  text-align: right;
 }
 
 h1 {
@@ -38,7 +58,6 @@ h1 {
 }
 
 #micara {
-  width: 12%;
+  width: 45%;
   border-radius: 50%;
 }
-
